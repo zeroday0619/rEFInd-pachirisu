@@ -2,8 +2,7 @@ Pachirisu rEFInd Theme
 ======================
 
 Pachirisu theme for the rEFInd boot manager
-
-<br>
+![example](https://media.discordapp.net/attachments/633971402550280192/813396529942364170/unknown.png?width=954&height=596)
 
 ## Installation
 
